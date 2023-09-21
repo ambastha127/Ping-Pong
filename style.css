@@ -1,0 +1,36 @@
+body{
+    margin: 0%;
+}
+#container{
+    position: relative;
+}
+
+#rod1, #rod2{
+    width: 200px;
+    height: 20px;
+    border-radius: 30px;
+    text-align: center;
+    position: fixed;
+    left: 43%;
+    color: white;
+    font-weight: bold;
+}
+#rod1{
+    background-color: blue;
+    top: 0%;
+}
+#rod2{
+    background-color: blueviolet;
+    bottom: 0%;
+}
+
+#ball{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 100%;
+    position: fixed;
+    left: 50%;
+    top: 20px;
+}
+
