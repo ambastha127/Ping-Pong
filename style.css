@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    background-color: cyan;
 }
 #container{
     position: relative;
@@ -16,11 +17,11 @@ body{
     font-weight: bold;
 }
 #rod1{
-    background-color: blue;
+    background-color: black;
     top: 0%;
 }
 #rod2{
-    background-color: blueviolet;
+    background-color: black;
     bottom: 0%;
 }
 
